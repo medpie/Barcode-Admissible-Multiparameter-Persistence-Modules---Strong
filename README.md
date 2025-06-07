@@ -45,7 +45,7 @@ This is the core function that checks whether a `pModule` is **barcode admissibl
 
 The admissibility check is based on **Proposition 2.38**:
 
-> **[Proposition 2.38]** An $\mathbb{N}^d$-indexed persistence module $M$ has a barcode if and only if $M$ has a set $S$ of generators such that for every $x \in \mathbb{N}^d$, the set $ \{ M_{gr(s),x}(s) \mid s \in S, gr(s) \leqslant x \text{ and } M_{gr(s),x}(s) \neq 0 \} $ is a linear basis of $M_x$.
+> **[Proposition 2.38]** An $\mathbb{N}^d$-indexed persistence module $M$ has a barcode if and only if $M$ has a set $S$ of generators such that for every $x \in \mathbb{N}^d$, the set $\{ M_{gr(s),x}(s) \mid s \in S, gr(s) \leqslant x \text{ and } M_{gr(s),x}(s) \neq 0 \}$ is a linear basis of $M_x$.
 >
 > (Nategh M., Qin Z., and Wang Sh. *Multiparameter Persistence Modules*, Doctoral Dissertation, University of Missouri-Columbia, ProQuest ID: 12577, (2025)).
 
